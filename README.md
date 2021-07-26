@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Keven Chen 👋
 
 <!--
 **blindspoter/blindspoter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I work as a backend developer
+- I mostly code in Go, and Python
+- I am interested in distributed systems, message queues, and messaging infrastructure in general
+- I am also learning Rust these days
